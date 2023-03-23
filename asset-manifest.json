@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MatchGame/static/css/main.0bb38735.css",
+    "main.js": "/MatchGame/static/js/main.86c9f33d.js",
+    "static/js/787.d3befce1.chunk.js": "/MatchGame/static/js/787.d3befce1.chunk.js",
+    "index.html": "/MatchGame/index.html",
+    "main.0bb38735.css.map": "/MatchGame/static/css/main.0bb38735.css.map",
+    "main.86c9f33d.js.map": "/MatchGame/static/js/main.86c9f33d.js.map",
+    "787.d3befce1.chunk.js.map": "/MatchGame/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb38735.css",
+    "static/js/main.86c9f33d.js"
+  ]
+}
