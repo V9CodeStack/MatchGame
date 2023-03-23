@@ -1,0 +1,42 @@
+.nav-bar-container {
+  background-color: #2c0e3a;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img {
+  width: 100px;
+}
+
+.score-timer-container {
+  width: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para {
+  color: white;
+  font-size: 12px;
+}
+
+.score {
+  color: #fec653;
+}
+
+.timer-img {
+  width: 20px;
+  padding-right: 5px;
+}
+
+.timer-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para-timer {
+  color: #fec653;
+}

@@ -1,0 +1,15 @@
+.image-list-container {
+  padding-right: 5px;
+  padding-bottom: 10px;
+}
+
+.btn {
+  cursor: pointer;
+  border: 0;
+  background-color: transparent;
+}
+
+.thumb-img {
+  width: 70px;
+  border-radius: 5px;
+}

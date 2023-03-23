@@ -1,0 +1,30 @@
+.tabList-para {
+  font-size: 13px;
+  color: white;
+  padding-bottom: 0;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.tab-button {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 14px;
+  background-color: transparent;
+  font-weight: 500;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  margin-right: 10px;
+}
+
+.active {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+  text-align: center;
+  margin-bottom: 10px;
+}
